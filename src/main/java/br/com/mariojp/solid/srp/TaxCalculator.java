@@ -1,4 +1,4 @@
 package br.com.mariojp.solid.srp;
 
-public class ReceiptService {
+public class TaxCalculator {
 }
